@@ -1,9 +1,0 @@
-server:
-  port: 8085
-
-
-spring:
-  application:
-    name: mapYML
-
-    version: 1.0.0
